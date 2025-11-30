@@ -1,5 +1,7 @@
 # Jarkom-Modul-5-2025-K11
 
+<img width="1316" height="792" alt="TopologiModul5" src="https://github.com/user-attachments/assets/bd69381f-205d-4c9a-84ff-b9cf52b8f8f8" />
+
 ## Tabel Subnetting - Jarkom Modul 5 K11
 
 | Subnet | Rute | Jumlah Host | Jumlah Host + Gateway | Netmask |
@@ -18,6 +20,9 @@
 | A12    | Minastir > Pelargir         | 2   | 2   | /30 |
 | A13    | Pelargir > AnduinBanks      | 2   | 2   | /30 |
 | **Total** |                          | **424** | **428** | **/23** |
+
+
+<img width="1280" height="770" alt="JARKOM MODUL 5" src="https://github.com/user-attachments/assets/fd3017e2-2118-46f5-bc94-dcfb209ed0f6" />
 
 
 ## Tabel Subnetting
