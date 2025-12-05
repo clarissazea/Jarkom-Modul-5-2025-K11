@@ -1,11 +1,14 @@
 # Jarkom-Modul-5-2025-K11
 
+Prolog: Pengkhianatan di Dagorlad Perang Aliansi Terakhir (The Last Alliance) sedang berkecamuk. Sebuah jaringan komunikasi besar dibangun untuk menghubungkan pasukan Elf dan Manusia. Namun, intelijen mendeteksi bahwa Khamûl (Sang Easterling) telah berkhianat. Ia bersembunyi di pos terpencil, mencoba menyadap data strategi perang.
+
+## Topologi
 <img width="1316" height="792" alt="TopologiModul5" src="https://github.com/user-attachments/assets/bd69381f-205d-4c9a-84ff-b9cf52b8f8f8" />
 
-
+## Pengelompokan Subnet
 <img width="1280" height="770" alt="JARKOM MODUL 5" src="https://github.com/user-attachments/assets/fd3017e2-2118-46f5-bc94-dcfb209ed0f6" />
 
-## Tabel Subnetting - Jarkom Modul 5 K11
+## Tabel Subnetting 
 
 | Subnet | Rute | Jumlah Host | Jumlah Host + Gateway | Netmask |
 |--------|------|--------------|------------------------|---------|
@@ -29,7 +32,7 @@
 
 <img width="1072" height="655" alt="K11_Tree Modul 5" src="https://github.com/user-attachments/assets/97504eb9-c129-4c2f-9c78-8dbc507a2e14" />
 
-## Tabel Subnetting
+## Pembagian IP VLSM
 
 | Subnet | Netmask (CIDR) | Network ID   | Netmask           | Broadcast     | Range IP                     |
 |--------|----------------|--------------|-------------------|---------------|------------------------------|
